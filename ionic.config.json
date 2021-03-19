@@ -1,0 +1,7 @@
+{
+  "name": "Smart-House",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
