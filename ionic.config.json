@@ -1,0 +1,8 @@
+{
+  "name": "SmartHouse",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "f816c775"
+}
