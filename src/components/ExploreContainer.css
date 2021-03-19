@@ -3,7 +3,11 @@
   position: absolute;
   left: 0;
   right: 0;
+<<<<<<< HEAD
   top: 70%;
+=======
+  top: 50%;
+>>>>>>> c37b6fde83a51f172c148d90ce98857a2c1be95d
   transform: translateY(-50%);
 }
 

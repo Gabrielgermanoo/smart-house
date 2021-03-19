@@ -1,7 +1,17 @@
 {
+<<<<<<< HEAD
   "name": "Smart-House",
   "integrations": {
     "capacitor": {}
   },
   "type": "react"
 }
+=======
+  "name": "SmartHouse",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "f816c775"
+}
+>>>>>>> c37b6fde83a51f172c148d90ce98857a2c1be95d
